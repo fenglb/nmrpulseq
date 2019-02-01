@@ -104,3 +104,5 @@ including the bruker and varian pulse sequences, 1d, 2d, 3d, and 4d homonuclear 
 - [Shirakawa Laboratory](http://www.moleng.kyoto-u.ac.jp/~moleng_01/nmr/index.html)
 
 1. F1F2-selective NMR pulse programs
+
+- [Bruker User Library](https://www.bruker.com/service/information-communication/nmr-pulse-program-lib/bruker-user-library.html)
