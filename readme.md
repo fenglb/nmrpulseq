@@ -108,3 +108,13 @@ including the bruker and varian pulse sequences, 1d, 2d, 3d, and 4d homonuclear 
 - [Bruker User Library](https://www.bruker.com/service/information-communication/nmr-pulse-program-lib/bruker-user-library.html)
 
 - [R. V. Hosur](http://www.tifr.res.in/~hosur/) HNN/HN(C)N pulse and some expriments
+
+- [BNMRZ](http://www.bnmrz.org/research/pulse-programs)
+
+1. BUSS decoupling decoupling shape for bruker spectrometers
+2. HNN-COSY J(N-N) correlation in isotope-labeled RNA
+3. H(CC)NN-COSY J(N-N) correlation in isotope-labeled RNA
+4. HCCH-TOCSY E/AE=>2x sensitivity enhanced
+5. CDCA(NCO)CAHA E/AE
+6. Adenine HCCH-COSY long-range HCCH correlation in adenine base
+7. 2D w2-filtered NOESY
