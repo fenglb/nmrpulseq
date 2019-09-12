@@ -106,3 +106,5 @@ including the bruker and varian pulse sequences, 1d, 2d, 3d, and 4d homonuclear 
 1. F1F2-selective NMR pulse programs
 
 - [Bruker User Library](https://www.bruker.com/service/information-communication/nmr-pulse-program-lib/bruker-user-library.html)
+
+- [R. V. Hosur](http://www.tifr.res.in/~hosur/) HNN/HN(C)N pulse and some expriments
