@@ -118,3 +118,9 @@ including the bruker and varian pulse sequences, 1d, 2d, 3d, and 4d homonuclear 
 5. CDCA(NCO)CAHA E/AE
 6. Adenine HCCH-COSY long-range HCCH correlation in adenine base
 7. 2D w2-filtered NOESY
+
+- [Mulder bioNMR lab](http://protein-nmr.org/)
+1. 3D HNCOCO - CO/N/H version (Yoshimura et al., JBNMR 2015): hncocogp3d1
+2. 3D HNCOCO - N/N/H version (Yoshimura et al., JBNMR 2015): hncocogp3d2
+3. Arg head group CN experiment (Yoshimura et al., Angewandte Chemie 2017): arginine_head_group.yy
+4. Paris-DECOR - fast backbone HX (Dass et al., ChemPhysChem 2019): hcacongp3d-hdx
