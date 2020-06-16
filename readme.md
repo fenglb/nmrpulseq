@@ -124,3 +124,5 @@ including the bruker and varian pulse sequences, 1d, 2d, 3d, and 4d homonuclear 
 2. 3D HNCOCO - N/N/H version (Yoshimura et al., JBNMR 2015): hncocogp3d2
 3. Arg head group CN experiment (Yoshimura et al., Angewandte Chemie 2017): arginine_head_group.yy
 4. Paris-DECOR - fast backbone HX (Dass et al., ChemPhysChem 2019): hcacongp3d-hdx
+
+- [KIT](ioc.kit.edu/luy/111.php) Pulse Shapes Optimized Using Optimal Control Theory
